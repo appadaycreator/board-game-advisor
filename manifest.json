@@ -1,8 +1,9 @@
 {
   "name": "Board Game Advisor",
   "short_name": "board-game-a",
-  "start_url": "/",
+  "start_url": "/board-game-advisor/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/board-game-advisor/"
 }
